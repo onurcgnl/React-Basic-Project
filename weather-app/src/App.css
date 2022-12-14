@@ -1,0 +1,22 @@
+body{
+background-image: url("https://images.pexels.com/photos/3067478/pexels-photo-3067478.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1920&dpr=1");
+ object-fit: cover;
+ overflow: hidden;
+}
+.container{
+  margin: 0 auto;
+ margin-top: 100px;
+}
+.App {
+  text-align: center;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
