@@ -9,4 +9,6 @@
 <br/>
 <h2>Images Gallery App </h2>
 ![image](https://user-images.githubusercontent.com/110727274/207149222-8b5899bd-e44e-4a51-a26f-77e3cd4e82ac.png)
-
+<br/>
+<h2>Weather </h2>
+![image](https://user-images.githubusercontent.com/110727274/207712259-50732301-7e0f-48ee-b5f0-0bda3ef535e5.png)
