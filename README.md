@@ -1,7 +1,5 @@
 # React-Basic-Project
-
 Get Number
-
 <br />
 ![image](https://user-images.githubusercontent.com/110727274/206787270-90468616-6041-49b9-83c8-2d74539cfd05.png)
 <br/>
