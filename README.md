@@ -23,4 +23,3 @@ Random Quote
 <br />
 ![image](https://user-images.githubusercontent.com/110727274/208142114-4b498f16-4746-4469-853d-e3ef5fff8421.png)
 <br />
-
